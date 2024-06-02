@@ -21,6 +21,9 @@ python icmp_monitoring.py
 
 - English
 
+## 🪚 Preview
+![image](https://github.com/dev-ir/icmp-monitor/assets/114811214/43c08c75-15ad-4184-977a-32998e2d6c94)
+
 **If this project is helpful to you, you may wish to give it a**:star2:
 
 <p align="left"><a href="#"><img width="125" src="https://github.com/dev-ir/assistant-vps/assets/114811214/cc33e615-478e-4b2b-866e-277a6f1c3c81" alt="Image"></a></p>
