@@ -11,7 +11,7 @@
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/assistant-vps/master/install.sh)
+python icmp_monitoring.py
 ```
 
 ## Languages
