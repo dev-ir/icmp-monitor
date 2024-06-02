@@ -11,6 +11,9 @@
 ## Install & Upgrade
 
 ```
+mkdir icmp_monitor
+cd icmp_monitor
+wget https://raw.githubusercontent.com/dev-ir/icmp-monitor/master/icmp_monitoring.py
 python icmp_monitoring.py
 ```
 
