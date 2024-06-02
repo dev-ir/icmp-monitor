@@ -20,7 +20,6 @@ python icmp_monitoring.py
 ## Languages
 
 - English
-- 
 
 **If this project is helpful to you, you may wish to give it a**:star2:
 
